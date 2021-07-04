@@ -98,13 +98,13 @@ footer p {
   font-weight: 800;
 }
 
-.section.main-container {
-  background-image: url("/images/top-banner.png");
+.main-container {
+  background-image: url("images/top-banner.png");
   background-repeat: no-repeat;
 }
 
-.section.experience-container {
-  background-image: url("./images/exp-bg.png");
+.experience-container {
+  background-image: url("images/exp-bg.png");
   background-repeat: no-repeat;
   background-position-y: center;
 }
